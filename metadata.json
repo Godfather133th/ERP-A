@@ -1,0 +1,5 @@
+{
+  "name": "INDC Government ERP",
+  "description": "A multi-tenant, bilingual (Arabic/English) ERP system designed for the Iraq National Data Center to manage ministry resources, finance, and HR, featuring AI-powered assistance.",
+  "requestFramePermissions": []
+}
